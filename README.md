@@ -3,10 +3,10 @@
 An interactive Jupyter demo of the **Vicsek model** for collective motion.  
 Implemented in Python with `ipywidgets`.
 
-🎬 **Run this notebook online:**
+**Run this notebook online:**
 
-- **Binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<highResearcher>/vicsek-interactive-simulation/main?labpath=notebooks%2Fvicsek_demo.ipynb)
-- **Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<highResearcher>/vicsek-interactive-simulation/blob/main/notebooks/vicsek_demo.ipynb)
+- **Binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<highResearcher>/vicsek_interactive_simulation/main?labpath=notebooks%2Fvicsek_github.ipynb)
+- **Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<highResearcher>/vicsek_interactive_simulation/blob/main/notebooks/vicsek_github.ipynb)
 
 ---
 
