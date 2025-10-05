@@ -5,8 +5,8 @@ Implemented in Python with `ipywidgets`.
 
 **Run this notebook online:**
 
-- **Binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<highResearcher>/vicsek_interactive_simulation/main?labpath=notebooks%2Fvicsek_github.ipynb)
-- **Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<highResearcher>/vicsek_interactive_simulation/blob/main/notebooks/vicsek_github.ipynb)
+- **Binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<highResearcher>/Vicsek_interactive_simulation/main?labpath=notebooks%2Fvicsek_github.ipynb)
+- **Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<highResearcher>/Vicsek_interactive_simulation/blob/main/notebooks/vicsek_github.ipynb)
 
 ---
 
